@@ -77,14 +77,14 @@ We welcome community contributions! If you're interested in contributing to Prot
 Join our vibrant community of developers, users, and enthusiasts across multiple platforms:
 
 - [Telegram Channel](https://t.me/protocolgenesis_gens)
-- [Twitter](https://twitter.com/GensProtocol)
-- [Reddit](https://reddit.com/r/LeftFact884)
-- [Facebook](https://facebook.com/ProtocolGenesis)
-- [YouTube](https://youtube.com/ProtocolGenesis)
+- [Twitter](https://x.com/GensProtocol)
+- [Reddit](https://www.reddit.com/user/LeftFact884/)
+- [Facebook](https://www.facebook.com/profile.php?id=61563363963680&sk=about)
+- [YouTube](https://www.youtube.com/channel/UCveNKdVy0iNGPb17DN231Sg)
 - [GitHub](https://github.com/ProtocolGenesis)
-- [TikTok](https://tiktok.com/@ProtocolGenesis)
-- [Pinterest](https://pinterest.com/ProtocolGenesis)
-- [Instagram](https://instagram.com/ProtocolGenesis)
+- [TikTok](https://www.tiktok.com/@protocolgenesis)
+- [Pinterest](https://www.pinterest.com/protocolgenesis/?invite_code=3bb7f07cf8bd4e8a8cb3881ee34df7bc&sender=1079527110588211405)
+- [Instagram](https://www.instagram.com/protocol.genesis/)
 - [Official Website](https://protocolgenesis.org)
 
 ## 💰 Donations
