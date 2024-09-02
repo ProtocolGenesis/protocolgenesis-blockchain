@@ -29,7 +29,7 @@ Explore the ProtocolGenesis blockchain in real-time with our dedicated block exp
 
 ## 📜 Whitepaper
 
-Dive deep into the intricacies of ProtocolGenesis with our comprehensive [Whitepaper](https://github.com/ProtocolGenesis/protocolgenesis-blockchain/blob/main/whitepaper-pt-br.pdf). This document explores the technical framework, economic model, and long-term vision of the platform. It's a must-read for developers and investors eager to understand the core philosophy and strategy behind ProtocolGenesis.
+Dive deep into the intricacies of ProtocolGenesis with our comprehensive [Whitepaper pt-br](https://github.com/ProtocolGenesis/protocolgenesis-blockchain/blob/main/whitepaper-pt-br.pdf). This document explores the technical framework, economic model, and long-term vision of the platform. It's a must-read for developers and investors eager to understand the core philosophy and strategy behind ProtocolGenesis.
 
 ## 📁 Blockchain Folder
 
