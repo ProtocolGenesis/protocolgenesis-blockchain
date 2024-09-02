@@ -172,7 +172,7 @@ Support the development of ProtocolGenesis by making a donation to our wallets:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ProtocolGenesis/protocolgenesis-blockchain/blob/main/MIT%20License%20for%20ProtocolGenesis) file for more details.
 
 ---
 
