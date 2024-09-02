@@ -29,7 +29,7 @@ Explore the ProtocolGenesis blockchain in real-time with our dedicated block exp
 
 ## 📜 Whitepaper
 
-Dive deep into the intricacies of ProtocolGenesis with our comprehensive [Whitepaper](link-to-whitepaper). This document explores the technical framework, economic model, and long-term vision of the platform. It's a must-read for developers and investors eager to understand the core philosophy and strategy behind ProtocolGenesis.
+Dive deep into the intricacies of ProtocolGenesis with our comprehensive [Whitepaper](https://github.com/ProtocolGenesis/protocolgenesis-blockchain/blob/main/whitepaper-pt-br.pdf). This document explores the technical framework, economic model, and long-term vision of the platform. It's a must-read for developers and investors eager to understand the core philosophy and strategy behind ProtocolGenesis.
 
 ## 📁 Blockchain Folder
 
@@ -136,7 +136,7 @@ Before installing ProtocolGenesis, ensure your system meets these minimum requir
 
 ## 🔒 Security
 
-Security is paramount at ProtocolGenesis. We encourage all contributors and developers to review our [Security Guide](link-to-security-guide) and report any vulnerabilities through our responsible disclosure program.
+Security is paramount at ProtocolGenesis. We encourage all contributors and developers to review our [Security Guide]() and report any vulnerabilities through our responsible disclosure program.
 
 ## 🤝 Contributing
 
@@ -172,7 +172,7 @@ Support the development of ProtocolGenesis by making a donation to our wallets:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for more details.
+This project is licensed under the MIT License. See the [LICENSE]() file for more details.
 
 ---
 
