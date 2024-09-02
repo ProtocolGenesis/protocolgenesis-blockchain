@@ -23,6 +23,10 @@ ProtocolGenesis is composed of several integral components, each contributing to
 - **Application Layer**: Provides interfaces for development and integration with a wide range of applications.
 - **Storage Layer**: Combines on-chain and off-chain storage solutions to optimize efficiency and reduce costs.
 
+## 🔍 Block Explorer
+
+Explore the ProtocolGenesis blockchain in real-time with our dedicated block explorer at [gensscan.com](http://www.gensscan.com). The block explorer provides transparency by allowing users to view all transactions, blocks, and other on-chain data, ensuring you stay informed about all the activities within the ProtocolGenesis network.
+
 ## 📜 Whitepaper
 
 Dive deep into the intricacies of ProtocolGenesis with our comprehensive [Whitepaper](link-to-whitepaper). This document explores the technical framework, economic model, and long-term vision of the platform. It's a must-read for developers and investors eager to understand the core philosophy and strategy behind ProtocolGenesis.
@@ -39,6 +43,76 @@ The Blockchain Folder contains essential files to run and engage with the Protoc
 ## 📊 Presentation
 
 Check out the [ProtocolGenesis Presentation](link-to-presentation) for a visual overview of the blockchain, highlighting its features, benefits, and the opportunities it presents. Perfect for newcomers and potential investors, this presentation provides a succinct summary of how ProtocolGenesis is revolutionizing the blockchain space.
+
+## 💰 Resource Distribution
+
+ProtocolGenesis ensures a balanced and sustainable growth of its ecosystem through strategic resource distribution. Here’s how the resources are allocated:
+
+- **40% Ecosystem**: Distributed in:
+1. **Liquidity (30%): Funds allocated to maintain liquidity, ensuring quick and stable transactions.
+2. **Education and Training (3%): Investment in educational programs to empower the community.
+3. **Research and Development (3%): Focus on innovation and creating new features.
+4. **Sustainable Development (1%): Support for ecological and sustainable initiatives.
+5. **Decentralized Governance (3%): Resources allocated to enable active community participation in decision-making.
+
+
+- **20% Investment in Projects**: Direct investment in startups and innovative ideas to expand and diversify the ecosystem.
+- **14% Producers**: Distributed among content creators, apps, courses, software, and other paid content.
+- **6.5% Marketing**: Allocated for marketing efforts to promote the project globally.
+- **6.5% Team**: For the ProtocolGenesis project team.
+- **4.5% Servers**: Dedicated to maintaining decentralized servers.
+- **2.5% for Adam and Eve**: Perpetual rewards for the first 20 investors who contribute more than $50,000.
+- **1.5% Ambassadors**: For project ambassadors.
+- **1% Partners**: To reward strategic partners who help expand and strengthen the ecosystem.
+- **1% Events**: Used for organizing and sponsoring events and conferences.
+- **0.5% Decentralized Support**: Ensures efficient user support through a decentralized support system.
+- **0.5% Loyalty and Rewards**: To encourage continuous user participation through loyalty programs.
+- **0.5% Accessibility and Inclusion**: Dedicated to making ProtocolGenesis accessible to everyone.
+- **0.5% Reforestation and Nature Protection**: Supports environmental sustainability initiatives.
+- **0.5% Sports Sponsorships**: For increasing brand visibility through sports sponsorships【17:1†source】.
+
+## 📱 Ecosystem Applications
+
+ProtocolGenesis features 14 innovative applications that cater to a wide range of needs:
+
+1. **GENSVota**: A blockchain-based voting application that empowers the community with decision-making.
+2. **GENSWallet**: A secure digital wallet for managing cryptocurrencies with advanced security features.
+3. **GENSNetwork**: A social network that connects users within the ProtocolGenesis ecosystem.
+4. **GENSChat**: A secure messaging app with end-to-end encryption, ensuring privacy in communications.
+5. **GENSMarketing**: A platform offering courses and content on digital marketing, designed to empower the community.
+6. **App Delivery**: A delivery service app that integrates cryptocurrency payments.
+7. **App Rede Social**: A social networking app that uses cryptocurrency for all transactions.
+8. **App Mensagens Ponto a Ponto**: A secure peer-to-peer messaging app focused on privacy and security.
+9. **WalletGens**: A versatile wallet application for managing multiple cryptocurrency accounts.
+10. **App Curriculum**: A professional resume creation and sharing tool.
+11. **App Houseio**: A real estate rental platform with secure payment options.
+12. **App FastCar**: A car rental application integrating cryptocurrency payments.
+13. **App MyBeach**: A beach exploration app that provides guides and local activity suggestions.
+14. **App Eternidade**: An app for long-term digital preservation of memories and documents【17:18†source】.
+
+## 🚀 Startups in the Ecosystem
+
+Several startups are leveraging ProtocolGenesis technology to develop new products and services:
+
+- **GrafenoLabs**: Focuses on graphene production, contributing to advancements in materials science.
+- **AlgassLab**: Develops sustainable biofuels and food using algae cultivation.
+- **Startup1**: Creates blockchain-based educational platforms offering interactive learning experiences【17:19†source】.
+
+## 🎉 Pre-Sale
+
+The **ProtocolGenesis Pre-Sale** offers an early opportunity to invest in this groundbreaking project. By participating in the pre-sale, investors can acquire tokens at a favorable rate, supporting the initial growth and development of the ecosystem. Each GENS token will be sold for $3 during the pre-sale. Funds raised will be used for expanding the network, developing new features, and onboarding additional projects and partners.
+
+To participate in the pre-sale, visit our [Official Website](https://protocolgenesis.org) and navigate to the pre-sale section for more details【17:17†source】.
+
+## ✨ Airdrop Opportunity
+
+We’re excited to announce an **Airdrop** for our community! A random amount between 100 and 5000 GENS tokens will be distributed to participants who complete the following steps:
+
+1. Follow all our social media accounts.
+2. Like a post on each platform.
+3. Tag three friends in the comments.
+
+Each GENS token is valued at $3 during the pre-sale, so don't miss out on this chance to earn some valuable tokens!
 
 ## 🚀 Getting Started
 
@@ -89,12 +163,12 @@ Join our vibrant community of developers, users, and enthusiasts across multiple
 
 ## 💰 Donations
 
-Support the development of ProtocolGenesis by making a donation to our Bitcoin wallet:
+Support the development of ProtocolGenesis by making a donation to our wallets:
 
-**Bitcoin Wallet Address**: `bc1qk26tchg3zcclchaw7tfapltjwnrt642ur8eas3`
-**Ethereum Wallet Address**: `0x80fA0d82e4df7E538449216B95A9e1D4081291cc`
+- **Bitcoin Wallet Address**: `bc1qk26tchg3zcclchaw7tfapltjwnrt642ur8eas3`
+- **Ethereum Wallet Address**: `0x80fA0d82e4df7E538449216B95A9e1D4081291cc`
 
-Your contributions help us continue to innovate and expand the ProtocolGenesis ecosystem. Thank you for your generosity!
+**Your donations help us to keep innovating and expanding the ProtocolGenesis ecosystem. Every contribution, no matter how small, makes a significant impact! Thank you for your support!**
 
 ## 📜 License
 
@@ -105,4 +179,3 @@ This project is licensed under the MIT License. See the [LICENSE](link-to-licens
 With ProtocolGenesis, you’re not just adopting a blockchain; you’re becoming part of a revolution. Join us and help shape the future of decentralized technology!
 
 ---
-
