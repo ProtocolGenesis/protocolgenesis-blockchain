@@ -92,6 +92,7 @@ Join our vibrant community of developers, users, and enthusiasts across multiple
 Support the development of ProtocolGenesis by making a donation to our Bitcoin wallet:
 
 **Bitcoin Wallet Address**: `bc1qk26tchg3zcclchaw7tfapltjwnrt642ur8eas3`
+**Ethereum Wallet Address**: `0x80fA0d82e4df7E538449216B95A9e1D4081291cc`
 
 Your contributions help us continue to innovate and expand the ProtocolGenesis ecosystem. Thank you for your generosity!
 
