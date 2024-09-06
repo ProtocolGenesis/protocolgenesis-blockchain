@@ -157,7 +157,7 @@ Join our vibrant community of developers, users, and enthusiasts across multiple
 - [YouTube](https://www.youtube.com/channel/UCveNKdVy0iNGPb17DN231Sg)
 - [GitHub](https://github.com/ProtocolGenesis)
 - [TikTok](https://www.tiktok.com/@protocolgenesis)
-- [Pinterest](https://www.pinterest.com/protocolgenesis/?invite_code=3bb7f07cf8bd4e8a8cb3881ee34df7bc&sender=1079527110588211405)
+- [Pinterest](https://www.pinterest.com/protocolgenesis/_created/)
 - [Instagram](https://www.instagram.com/protocol.genesis/)
 - [Official Website](https://protocolgenesis.org)
 
