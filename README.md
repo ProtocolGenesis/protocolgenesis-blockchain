@@ -6,6 +6,20 @@ Welcome to **ProtocolGenesis**, a next-generation blockchain platform that redef
 
 ProtocolGenesis is built on the foundation of merging cutting-edge technology with the imperative for security and transparency in today’s digital age. Our unique approach integrates advanced blockchain capabilities with a sustainable ecosystem, addressing common challenges such as speed limitations, scalability issues, and high operational costs found in other blockchain platforms.
 
+## 🚀 💰 The ProtocolGenesis Coin (GENS)
+
+- ** Name: ProtocolGenesis
+- ** Symbol: GENS
+- ** Total Coin Supply: 25,818,948
+- ** Mining Reward per Block: 10 GENS
+- ** Pre-miner: 5% of the total coin supply will be allocated to the pre-sale
+- ** Block Interval: 3 minutes
+- ** Halving: Every 7 years, the mining reward is halved
+- ** Last Mining Duration: Over 246 years
+- ** Algorithm: Scrypt
+
+The ProtocolGenesis (GENS) coin is designed to support a sustainable and continuously growing economy within the ecosystem. With an attractive reward structure and a halving model every 7 years, GENS aligns with long-term best practices in the cryptocurrency market. The 5% allocation for the pre-sale ensures a fair and controlled distribution at launch, while the 3-minute block interval provides fast and efficient transactions.
+
 ## 🚀 Key Features
 
 - **High Scalability**: Supports a vast number of transactions per second, ideal for applications that demand high throughput.
