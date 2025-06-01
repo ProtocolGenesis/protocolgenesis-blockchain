@@ -13,7 +13,7 @@ ProtocolGenesis is built on the foundation of merging cutting-edge technology wi
 - ** Total Coin Supply: 25,818,948
 - ** Mining Reward per Block: 10 GENS
 - ** Pre-miner: 5% of the total coin supply will be allocated to the pre-sale
-- ** Block Interval: 3 minutes
+- ** Block Interval: 1 minutes
 - ** Halving: Every 7 years, the mining reward is halved
 - ** Last Mining Duration: Over 246 years
 - ** Algorithm: Scrypt
