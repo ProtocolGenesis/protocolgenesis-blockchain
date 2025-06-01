@@ -166,7 +166,6 @@ Join our vibrant community of developers, users, and enthusiasts across multiple
 
 - [Telegram Channel](https://t.me/protocolgenesis_gens)
 - [Twitter](https://x.com/GensProtocol)
-- [Reddit](https://www.reddit.com/user/LeftFact884/)
 - [Facebook](https://www.facebook.com/profile.php?id=61563363963680)
 - [YouTube](https://www.youtube.com/channel/UCveNKdVy0iNGPb17DN231Sg)
 - [GitHub](https://github.com/ProtocolGenesis)
